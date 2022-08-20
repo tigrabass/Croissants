@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background: bisque;
+}
+.navigation-links {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.croissant-pic {
+  max-width: 100%;
+  border-radius: 10px;
+  margin: 30px auto;
+}
